@@ -12,6 +12,11 @@ confidence interval already in place.
 
 Everything is computed locally, with no external statistics package. `--demo` opens a temporary database with a fictional dataset.
 
+## Download
+
+Windows: get the `.exe` from [Releases](https://github.com/Apurba94/stats-results-writer/releases/latest) and double-click it. No installation or Python is needed.
+Windows may show a SmartScreen warning the first time because the program is not code-signed: choose *More info*, then *Run anyway*.
+
 ## From source
 
 ```bash
